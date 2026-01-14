@@ -1,0 +1,30 @@
+{
+  "name": "i-erge-package",
+  "version": "1.0.0",
+  "description": "A simple tool for calculation such as addition, subtraction, division and multiplication.",
+  "main": "npm.js",
+  "scripts": {
+    "test": "node npm.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Aubierge-codes/js-calculator-npm-assignment.git"
+  },
+  "keywords": [
+    "calculator",
+    "math",
+    "arithmetic",
+    "addition",
+    "subtraction",
+    "multiplication",
+    "division",
+    "i-erge",
+    "utility"
+  ],
+  "author": "Aubierge <aubierge7557@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Aubierge-codes/js-calculator-npm-assignment/issues"
+  },
+  "homepage": "https://github.com/Aubierge-codes/js-calculator-npm-assignment#readme"
+}
